@@ -2,7 +2,7 @@ import calculate from './../assets/calculate.png';
 import CardMenu from './../components/CardMenu';
 import bmi from './../assets/Bmi.png';
 import bmr from './../assets/Bmr.png';
-import car from './../assets/Car.png';
+import car from './../assets/car.png';
 import Footer from './../components/Footer';
 import {Link} from 'react-router';
 export default function Home() {
