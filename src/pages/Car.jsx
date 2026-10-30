@@ -120,14 +120,12 @@ export default function Car() {
 
         <div className="flex gap-2 mt-3">
           <button
-            type="button"
             className="w-1/2 bg-blue-600 text-white p-2 mt-5 rounded-xl font-kanit font-bold hover:bg-gray-800 cursor-pointer"
           >
             คำนวณ
           </button>
 
           <button
-            type="button"
             className="w-1/2 bg-gray-300 text-gray-700 p-2 mt-5 rounded-xl font-kanit font-bold hover:bg-gray-400 cursor-pointer"
           >
             ล้างข้อมูล
